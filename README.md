@@ -1,2 +1,2 @@
 # servers_automation
-Servers automation for OS based Linux (Rocky Linyx & AlmaLinux & Ubuntu Server) and Windows Server 
+Servers automation for OS based Linux (Rocky Linux & AlmaLinux & Ubuntu Server) and Windows Server 
