@@ -1,5 +1,7 @@
 # Servers Automation
 
+🇨🇴 [Español](README.es.md)
+
 Multi-platform automation projects focused on **Linux Server Administration, Infrastructure Automation and DevOps practices**.
 
 This repository is intended to develop and document automation workflows for the administration, configuration, validation and operation of Linux server infrastructure using repeatable and version-controlled processes.
